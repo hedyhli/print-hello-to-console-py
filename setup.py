@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="print-hello-to-console",
-    version="0.0.1",
+    version="0.0.2",
     author="Hedy Li",
     author_email="hedyhyry@gmail.com",
     description="Python CLI that prints Hello to the console. ",
